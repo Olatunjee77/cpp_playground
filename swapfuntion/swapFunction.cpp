@@ -38,9 +38,5 @@ int main(){
     cout << "First name: " << firstName << endl;    
     cout << "Last name: " << lastName << endl;
 
-    cout << "Testing pull request" << endl;
-    cout << "Testing pull request" << endl;
-
-
     return 0;
 }
